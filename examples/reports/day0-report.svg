@@ -1,11 +1,6 @@
 <svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
 <foreignObject width="100" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
-        <ul>
-            <li>text</li>
-        </ul>
-        <!-- Other embed HTML element/text into SVG -->
-      <html lang="en">
   <head>
     <meta charset="utf-8" />
     <title>Fit Assessment Report</title>
@@ -1018,7 +1013,6 @@ F(6);P("size",160)("thickness",18)("label",b.data.summary.totalVms)("sections",b
 Object.assign(Object.assign({},{"[attr.disabled]":"disabled || null","[class._mat-animation-noopable]":'_animationMode === "NoopAnimations"',"[attr.tabindex]":"disabled ? -1 : (tabIndex || 0)","[attr.aria-disabled]":"disabled.toString()","[class.mat-unthemed]":"!color","[class.mat-mdc-button-base]":"true"}),{"[class.mdc-fab--extended]":"extended","[class.mat-mdc-extended-fab]":"extended"});var NB=class{};NB.l=function(a){return new (a||NB)};NB.ua=Sc({type:NB});NB.ta=cc({imports:[[cv,Gv],cv]});var OB=class{};OB.l=function(a){return new (a||OB)};OB.ua=Sc({type:OB});OB.ta=cc({imports:[[Tn,NB]]});new D("MAT_GRID_LIST");var PB=class{};PB.l=function(a){return new (a||PB)};PB.ua=Sc({type:PB});PB.ta=cc({imports:[[iv,cv],iv,cv]});var QB=class{};QB.l=function(a){return new (a||QB)};QB.ua=Sc({type:QB});QB.ta=cc({imports:[[Tn,PB,KB]]});var RB=class{};RB.l=function(a){return new (a||RB)};RB.ua=Sc({type:RB});RB.ta=cc({hb:[ry],imports:[[mt,Tn,$u,cv],cv,lu]});var SB=class{};SB.l=function(a){return new (a||SB)};SB.ua=Sc({type:SB});SB.ta=cc({imports:[[Tn,NB,Yw,EA,RB,TA,dy]]});var TB=class{};TB.l=function(a){return new (a||TB)};TB.ua=Sc({type:TB});TB.ta=cc({imports:[[cv,Tn],cv]});var UB=class{};UB.l=function(a){return new (a||UB)};UB.ua=Sc({type:UB});UB.ta=cc({imports:[[Tn,TB,KB,LB,QB,SB]]});var VB=class{};VB.l=function(a){return new (a||VB)};VB.ua=Sc({type:VB});VB.ta=cc({imports:[[cv],cv]});var Ug=class{};Ug.l=function(a){return new (a||Ug)};Ug.ua=Sc({type:Ug,qg:[JB]});Ug.ta=cc({hb:[],imports:[[qs,LB,TB,KB,VB,SB,QB,UB,OB]]});(function(){var a=dp();const b=kk({},[]);ak().then(c=>fk(a,c,b))})();
 </script>
   </body>
-</html>
 
     </div>
 </foreignObject>
